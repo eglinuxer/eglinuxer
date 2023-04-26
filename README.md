@@ -6,8 +6,6 @@ C/C++ 工程师，对技术痴迷。
 
 喜欢读书，热衷于分享！
 
-- 编程 :computer:
-
 <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elinuxer" alt="Eglinux's Top Langs"/>
 
 **项目：**
