@@ -1,16 +1,15 @@
-### Hi there 👋
+> 如果踮起脚尖，就无法长久站立；如果迈着大步，就无法长远行走。这时候，静下心来好好做自己，走稳脚下每一步，就是最好的路.
 
-<!--
-**eglinuxer/eglinuxer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=eglinuxer&show_icons=true" alt="Eglinux's GitHub stats"/>
 
-Here are some ideas to get you started:
+C/C++ 工程师，对技术痴迷。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+喜欢读书，热衷于分享！
+
+- 编程 :computer:
+
+<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elinuxer" alt="Eglinux's Top Langs"/>
+
+**项目：**
+
+1. [技术博客](https://www.eglinux.com)
