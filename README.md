@@ -8,7 +8,7 @@ C/C++ 工程师，对技术痴迷。
 
 **项目：**
 
-1. [技术博客](https://www.eglinux.com)
+1. [Eglinux 的个人网站](https://www.eglinux.com)
 
 <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elinuxer" alt="Eglinux's Top Langs"/>
 
